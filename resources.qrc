@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>preferences-desktop-user.svg</file>
+    <file>photo-1567095751004-aa51a2690368.jpeg</file>
+    <file>1370307-middle.png</file>
+  </qresource>
+</RCC>
